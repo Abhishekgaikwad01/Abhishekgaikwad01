@@ -1,9 +1,33 @@
 <h1 align="center">Hi 👋, I'm Abhishek Gaikwad</h1>
 <h3 align="center">A passionate developer from India</h3>
+<h3 align="center">Analytical Thinker Turning Data into Insights.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+
+
+
+
+<br>
+
+## 🙋‍♂️ About Me:
+
+<br>
+
+<img alt="animation_gif" align="right" width="400" src=https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishekgaikwad01&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishekgaikwad01" /> </p>
+- 😄 Pronouns: **He/him/his.**
+
+- 🔭 I'm currently pursuing [My Graduation in BTech (Computer Engineering).](https://sanjivanicoe.org.in/)
+
+- 🔍 Research Area **Web Technologies, Artificial Intelligence and Machine Learning.**
+
+- 🌱 I’m currently learning **Machine Learning & Artificial Intelligence.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects.**
+
+- 📫 How to reach me **abhishekgaikwad9160@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -14,3 +38,29 @@
 
 
 <img src="https://myreadme.vercel.app/api/embed/Abhishekgaikwad01?panels=toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+<br>
+
+## 🏆 Github Streak Stats & Trophy:
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekgaikwad01&" alt="Abhishekgaikwad01" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhishekgaikwad01" alt="swapniljadhav96" /></a> </p>
+
+
+<br>
+
+### ✍️Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+
+
+
+<br>
+
+<div align="center">
+
+<h3> <i><b>" Spread the Love ❤️ by Starring ⭐ Repositories ! "</b></i></h3> 
+
+</div>
