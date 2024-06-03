@@ -29,7 +29,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishekgaikwad01&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </div>
 
-
 <img src="https://myreadme.vercel.app/api/embed/Abhishekgaikwad01?panels=toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <br>
